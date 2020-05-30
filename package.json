@@ -1,0 +1,20 @@
+{
+  "name": "Entrega4_ajax",
+  "version": "1.0.0",
+  "description": "CORE_MVC_AJAX",
+  "scripts": {},
+  "keywords": [
+    "CORE"
+  ],
+  "author": "ging",
+  "license": "Unlicense",
+  "info": {
+    "githubURL": "CORE-2020/Entrega4_ajax",
+    "serverUrl": "https://autocorector.dit.upm.es/",
+    "courseId": "8249",
+    "assignmentId": "76880"
+  },
+  "dependencies": {
+    "server": "^1.0.27"
+  }
+}
